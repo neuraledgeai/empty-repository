@@ -5,6 +5,14 @@ The Online Retail dataset encompasses all transactions from December 1, 2010, to
 
 We will utilize this transactional dataset to perform K-means clustering and identify the optimal customer segments for the company to target. Discover the valuable insights this dataset has to offer! Access the data [here](https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering).
 
+## Project and Interactive App Links
+
+Curious to dive deeper? Check out the full project on GitHub: [Clustering Project](https://github.com/neuraledgeai/empty-repository/blob/main/clustering.ipynb).
+
+For a more interactive experience, explore the findings through my dynamic app: [Interactive Dashboard](https://blank-app-vtax15kqtj.streamlit.app/).
+
+Feel free to explore both links and uncover the fascinating insights from my clustering analysis!
+
 
 ### Library Descriptions
 
